@@ -5,13 +5,13 @@ Aqui es donde se iran subiendo las nuevas actualizaciones de mi repositorio de l
 >Lista de la tareas asociadas a las ramas.
 
 >[!TIP]
->
+>Esto es un Tip
 
 >[!IMPORTANT]
->
+>Esto es Importante
 
 >[!WARNING]
->
+>Esto es para tener cuidado
 
 >[!CAUTION]
->
+>Esto es Peligroso
